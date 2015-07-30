@@ -6,6 +6,9 @@
 
 This code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
 Distributed as-is; no warranty is given.
+
+This sketch uses the HMC5883L Library found here:
+https://github.com/manifestinteractive/arduino/tree/master/Libraries/HMC5883L
 */
 
 #include <Wire.h>
