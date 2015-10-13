@@ -1,7 +1,7 @@
 SparkFun Triple Axis Magnetometer - HMC5883L
 ========================================
 
-![SparkFun Triple Axis Magnetometer - HMC5883L](https://cdn.sparkfun.com//assets/parts/5/0/9/4/10530-01c.jpg)
+![SparkFun Triple Axis Magnetometer - HMC5883L](https://cdn.sparkfun.com//assets/parts/5/0/9/4/10530-02.jpg)
 
 [*SparkFun Triple Axis Magnetometer - HMC5883L (SEN-10530)*](https://www.sparkfun.com/products/10530)
 
@@ -10,8 +10,12 @@ simple and all done through an I2C interface. There is no on-board regulator, so
 
 Repository Contents
 -------------------
-* **/Firmware** - Any firmware that the part ships with, 
+* **/Firmware** - Example Arduino .ino sketch.
 * **/Hardware** - All Eagle design files (.brd, .sch)
+
+Documentation
+--------------
+* **[Library](https://github.com/manifestinteractive/arduino/tree/master/Libraries/HMC5883L)** - Library from @manifestinteractive required to run the example sketch.
 
 
 License Information
